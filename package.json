@@ -1,0 +1,16 @@
+{
+  "name": "juice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "NODE_ENV=production node index.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "cors": "^2.8.3",
+    "express": "^4.15.2",
+    "juice": "^4.0.2",
+    "throng": "^4.0.0"
+  }
+}
