@@ -46,3 +46,6 @@ juice.now.sh will respond and return your CSS-inlined HTML in a nice envelope.
 ```
 
 That's it.
+
+---
+MIT License
